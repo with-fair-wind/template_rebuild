@@ -18,7 +18,8 @@ project(Template LANGUAGES CXX)
 
 include(MyUsefulFuncs)
 
-# add_subdirectory(function_template)
+add_subdirectory(function_template)
+
 # add_subdirectory(class_template)
 add_subdirectory(variable_template)
 
